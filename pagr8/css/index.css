@@ -1,0 +1,68 @@
+body {
+    background-color: #941818;
+    font-family: 'Courier New', Courier, monospace;
+}
+.profileDemographics {
+    background-color: #941818;
+    border: solid;
+    border-width: 5px;
+    text-align: left;
+    border-color: black;
+    color: white;
+    padding-inline: 40px;
+    box-shadow: 10px 10px #5f0f0f;
+    padding-bottom: 20px;
+}
+
+.details {
+    color: white;
+    width: 100px;
+}
+
+.mood { 
+    color:white;
+
+}
+
+.interestsAndDetails {
+    color: white;
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+   
+}
+
+.text {
+    color: white;
+}
+
+.post {
+    columns: 1;
+    width: 100px;
+    word-wrap: break-word;
+
+
+}
+
+#header {
+    background-color: #5f0f0f;
+    height: 70px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    font-size: 50px;
+  
+}
+
+.pfp {
+    border: solid;
+    border-width: 5px;
+}
+
+#button {
+    position: absolute;
+    bottom: -300;
+    right: 40;
+
+}
