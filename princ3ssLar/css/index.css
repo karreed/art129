@@ -1,0 +1,68 @@
+body {
+    background-color: #ffe5fd;
+    font-family: fantasy
+}
+.profileDemographics {
+    background-color: #f59898;
+    border: solid;
+    border-width: 5px;
+    text-align: left;
+    border-color: rgb(219, 161, 161);
+    color: rgb(86, 85, 85);
+    padding-inline: 40px;
+    box-shadow: 10px 10px #5f0f0f;
+    padding-bottom: 20px;
+}
+
+.details {
+    color: rgb(86, 85, 85);
+    width: 100px;
+}
+
+.mood { 
+    color:rgb(220, 173, 173);
+
+}
+
+.interestsAndDetails {
+    color: rgb(86, 85, 85);
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+   
+}
+
+.text {
+    color: rgb(86, 85, 85);;
+}
+
+.post {
+    columns: 1;
+    width: 100px;
+    word-wrap: break-word;
+
+
+}
+
+#header {
+    background-color: #ffa4bc;
+    height: 70px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    font-size: 50px;
+  
+}
+
+.pfp {
+    border: solid;
+    border-width: 5px;
+}
+
+#button {
+    position: absolute;
+    bottom: -300;
+    right: 40;
+
+}
