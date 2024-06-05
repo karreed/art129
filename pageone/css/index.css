@@ -20,20 +20,27 @@ body {
 }
 
 .mood { 
-    color:white;
+    color:rgb(33, 21, 21);
+    border: solid, 5px, black;
+    background-color: rgb(23, 198, 237);
+    border-radius: 50px;
+    box-shadow: 7px 7px #5f0f0f;
 
 }
 
 .interestsAndDetails {
-    color: white;
+    color: rgb(16, 12, 12);
     border: solid;
     border-color: black;
     border-width: 5px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 3px 3px #5f0f0f;
    
 }
 
 .text {
-    color: white;
+    color: rgb(1, 1, 1);
 }
 
 .post {
@@ -56,13 +63,16 @@ body {
 }
 
 .pfp {
-    border: solid;
-    border-width: 5px;
+    border: solid 5px rgb(84, 6, 6);
+    width: 200px;
+    height: 200px;
+
 }
 
 #button {
     position: absolute;
     bottom: -300;
     right: 40;
+    background-color: aliceblue;
 
 }
