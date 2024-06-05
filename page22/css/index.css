@@ -1,5 +1,8 @@
 body {
     background-color: #941818;
+    background-image: url('../img/meat.jpg');
+    background-size: 18%;
+    background-repeat: repeat;
     font-family: 'Courier New', Courier, monospace;
 }
 .profileDemographics {

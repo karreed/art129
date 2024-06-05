@@ -1,5 +1,7 @@
 body {
     background-color: #941818;
+    background-image: url('../img/meat.jpg');
+    background-size: 8%;
     font-family: 'Courier New', Courier, monospace;
 }
 .profileDemographics {
@@ -65,4 +67,8 @@ body {
     bottom: -300;
     right: 40;
 
+}
+
+.sorry {
+    font-size: 50px;
 }
